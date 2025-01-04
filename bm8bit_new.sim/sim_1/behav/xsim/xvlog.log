@@ -1,0 +1,9 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/jithu/Desktop/bm8bit_new/bm8bit_new/bm8bit_new.srcs/sources_1/new/bm.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module full_adder
+INFO: [VRFC 10-311] analyzing module black_box
+INFO: [VRFC 10-311] analyzing module grey_box
+INFO: [VRFC 10-311] analyzing module baugh_wooley
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/jithu/Desktop/bm8bit_new/bm8bit_new/bm8bit_new.srcs/sources_1/new/fir8bit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FIR
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/jithu/Desktop/bm8bit_new/bm8bit_new/bm8bit_new.srcs/sim_1/new/firTB.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module firTB

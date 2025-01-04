@@ -1,0 +1,8 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+C:/Users/jithu/Desktop/bm8bit_new/bm8bit_new/bm8bit_new.sim/sim_1/behav/xsim/glbl.v,1715083507,verilog,,,,glbl,,,,,,,,
+C:/Users/jithu/Desktop/bm8bit_new/bm8bit_new/bm8bit_new.srcs/sim_1/new/firTB.v,1715087091,verilog,,,,firTB,,,,,,,,
+C:/Users/jithu/Desktop/bm8bit_new/bm8bit_new/bm8bit_new.srcs/sources_1/new/bm.v,1715083509,verilog,,C:/Users/jithu/Desktop/bm8bit_new/bm8bit_new/bm8bit_new.srcs/sources_1/new/fir8bit.v,,baugh_wooley;black_box;full_adder;grey_box,,,,,,,,
+C:/Users/jithu/Desktop/bm8bit_new/bm8bit_new/bm8bit_new.srcs/sources_1/new/fir8bit.v,1715087100,verilog,,C:/Users/jithu/Desktop/bm8bit_new/bm8bit_new/bm8bit_new.srcs/sim_1/new/firTB.v,,FIR,,,,,,,,
